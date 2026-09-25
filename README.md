@@ -51,7 +51,7 @@ working and most of all , reliable systems.
 
 `building` &nbsp;&nbsp; `learning` &nbsp;&nbsp; `experimenting`
 
-<br><br>
+<br>
 
 **Full-Stack Development** · **System Design** · **AI** · **DSA**
 
