@@ -10,7 +10,7 @@
 
 <br>
 
-[GitHub](https://github.com/kartik-ey17) · [LinkedIn](https://linkedin.com/in/kartikey-srivastava17)
+[LeetCode](https://leetcode.com/u/itsoKay/) · [LinkedIn](https://linkedin.com/in/kartikey-srivastava17)
 
 </div>
 
@@ -26,10 +26,10 @@ I'm a Computer Science student who likes building things and understanding
 what happens underneath them.
 
 I spend most of my time moving between **full-stack development, systems,
-AI, and algorithms** — usually learning something by trying to build it.
+AI, and algorithms** ; usually learning something by trying to build it.
 
 Currently focused on becoming better at turning ideas into complete,
-working systems.
+working and most of all , reliable systems.
 
 ---
 
@@ -89,7 +89,7 @@ working systems.
 <br><br>
 
 ```text
-build things worth keeping.
+I try my best to build things worth keeping.
 ```
 
 </div>
