@@ -46,12 +46,10 @@ Age  : 20
 Class : Full-Stack Engineer
 
 Skills :
-Python, HTML, CSS, JS, TS,
-Golang, Java, C++
+Python, HTML, CSS, JS, TS, Golang, Java, C++
 
 Specializations :
-FastAPI, React.js, Next.js,
-Node.js, PostgreSQL, DSA
+FastAPI, React.js, Next.js, Node.js, PostgreSQL, DSA
 
 Tools :
 Git/GitHub, Linux, Docker
