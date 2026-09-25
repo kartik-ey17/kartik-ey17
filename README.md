@@ -1,16 +1,48 @@
-## Hi there 👋
+# `README.md`
 
-<!--
-**kartik-ey17/kartik-ey17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Kartikey Srivastava
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full-Stack Engineer
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="30%" align="center">
+
+<img src="YOUR_PROFILE_IMAGE_URL" width="180" />
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+
+</td>
+
+<td width="70%">
+
+## `Readme.md`
+
+```text
+Name : Kartikey Srivastava
+
+Age  : 20
+
+Class : Full-Stack Engineer
+
+Skills :
+Python, HTML, CSS, JS, TS,
+Golang, Java, C++
+
+Specializations :
+FastAPI, React.js, Next.js,
+Node.js, PostgreSQL, DSA
+
+Tools :
+Git/GitHub, Linux, Docker
