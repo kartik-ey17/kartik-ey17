@@ -1,220 +1,95 @@
 <div align="center">
 
-# KARTIKEY SRIVASTAVA
+# Kartikey Srivastava
 
-`FULL-STACK ENGINEER`
-
-</div>
+### Full-Stack Engineer
 
 <br>
 
-<table width="100%">
-<tr>
-
-<td width="42%" valign="middle">
-
-```text
-┌──────────────────────────────────┐
-│ SYSTEM STATUS                    │
-│                                  │
-│ USER       kartikey              │
-│ STATUS     ONLINE                │
-│ MODE       BUILD                 │
-│                                  │
-│ CURRENT FOCUS                    │
-│ ──────────────────────────────── │
-│ Full-Stack Development           │
-│ Systems                          │
-│ AI                               │
-│                                  │
-│ STACK                            │
-│ ──────────────────────────────── │
-│ Python   TypeScript   Java       │
-│ C++      Go          JavaScript  │
-│                                  │
-│ TOOLCHAIN                        │
-│ ──────────────────────────────── │
-│ FastAPI  React  Next.js          │
-│ PostgreSQL  Docker  Git          │
-│                                  │
-└──────────────────────────────────┘
-```
-
-</td>
-
-<td width="58%" align="center" valign="middle">
-
-<img src="./assets/ascii-art.png" width="520" />
-
-</td>
-
-</tr>
-</table>
+<img src="./assets/ascii-art.png" width="850" />
 
 <br>
 
-<div align="center">
-
-`[ GITHUB ]` &nbsp;&nbsp; `[@kartik-ey17]`
+[GitHub](https://github.com/kartik-ey17) · [LinkedIn](https://linkedin.com/in/kartikey-srivastava17)
 
 </div>
 
 ---
 
-## `PROJECTS`
+<div align="center">
 
-<table width="100%">
-<tr>
+## About
 
-<td width="50%" valign="top">
+</div>
 
-### BLACKBOX AI
+I'm a Computer Science student who likes building things and understanding
+what happens underneath them.
 
-**AI Incident Investigator**
+I spend most of my time moving between **full-stack development, systems,
+AI, and algorithms** — usually learning something by trying to build it.
 
-Reconstructs software incidents from correlated engineering evidence and produces evidence-backed investigations.
-
-`React` `TypeScript` `FastAPI` `Python`
-
-</td>
-
-<td width="50%" valign="top">
-
-### RATEFORGE
-
-**Rate Limiting Experimentation**
-
-Java-based simulator for comparing rate-limiting algorithms under different traffic patterns.
-
-`Java` `Algorithms` `Simulation`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### SETTLEMENT QnA
-
-**Fintech Settlement Investigation**
-
-Investigates settlement records across Gateway, Bank and Ledger data, with an optional AI explanation layer.
-
-`Python` `FastAPI` `PostgreSQL` `React`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ACEXAMS
-
-**AI Exam Practice**
-
-Turns uploaded course material into topic-based viva practice and evaluates spoken answers against the provided material.
-
-`Next.js` `TypeScript` `AI`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<details>
-<summary><b>BLACKBOX AI</b></summary>
-
-```text
-INPUT
-  GitHub
-  Sentry
-  System Logs
-      │
-      ▼
-┌─────────────────────┐
-│  Incident Analysis  │
-└──────────┬──────────┘
-           │
-           ▼
-   Correlated Evidence
-           │
-           ▼
-    Root Cause Report
-```
-
-</details>
-
-<details>
-<summary><b>RATEFORGE</b></summary>
-
-```text
-Traffic
-   │
-   ├── Normal
-   ├── Overload
-   ├── Burst
-   ├── Periodic
-   └── Random
-        │
-        ▼
- ┌─────────────────┐
- │ Fixed Window    │
- │ Sliding Window  │
- │ Token Bucket    │
- │ Leaky Bucket    │
- └────────┬────────┘
-          │
-          ▼
-      Benchmark
-```
-
-</details>
-
-<details>
-<summary><b>SETTLEMENT QnA</b></summary>
-
-```text
-Gateway ─┐
-Bank    ─┼──> Deterministic Investigation
-Ledger  ─┘             │
-                       ▼
-                Verified Result
-                       │
-                       ▼
-                 AI Explanation
-```
-
-</details>
-
-<details>
-<summary><b>ACEXAMS</b></summary>
-
-```text
-Course Material
-       │
-       ▼
-   Select Topic
-       │
-       ▼
-   Viva Question
-       │
-       ▼
-   Speak Answer
-       │
-       ▼
-     Evaluate
-```
-
-</details>
+Currently focused on becoming better at turning ideas into complete,
+working systems.
 
 ---
 
 <div align="center">
 
+## Skills
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,fastapi,postgres,docker,git,linux,java,cpp,go&perline=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Currently
+
+`building` &nbsp;&nbsp; `learning` &nbsp;&nbsp; `experimenting`
+
+<br><br>
+
+**Full-Stack Development** · **System Design** · **AI** · **DSA**
+
+</div>
+
+---
+
+<div align="center">
+
+## Things I've Built
+
+<br>
+
+`BlackBox AI` &nbsp; · &nbsp;
+`RateForge` &nbsp; · &nbsp;
+`Settlement QnA` &nbsp; · &nbsp;
+`AcExams`
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/kartik-ey17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/kartikey-srivastava17">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
 ```text
-BUILD  ────────  SHIP  ────────  LEARN  ────────  REPEAT
+build things worth keeping.
 ```
 
 </div>
