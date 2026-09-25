@@ -1,253 +1,210 @@
 <div align="center">
 
-# Kartikey Srivastava
+# KARTIKEY SRIVASTAVA
 
-### Full-Stack Engineer
+`FULL-STACK ENGINEER`
 
 </div>
 
----
+<br>
 
 <table width="100%">
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="42%" valign="middle">
 
-<img src="https://kommodo.ai/i/A0IMLcYOXLXrxb5iPda8" width="180" />
-
-<br><br>
-
-<a href="https://github.com/kartik-ey17">
-<img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/kartikey-srivastava17">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white" />
-</a>
-
-</td>
-
-<td width="75%" valign="top">
-
-<table width="100%">
-<tr>
-
-<td width="45%" valign="top">
-
-## `Readme.md`
-
-<pre>
-Name : Kartikey Srivastava
-
-Age  : 20
-
-Class : Full-Stack Engineer
-
-Skills :
-Python, HTML, CSS, JS, TS, Golang, Java, C++
-
-Specializations :
-FastAPI, React.js, Next.js, Node.js, PostgreSQL, DSA
-
-Tools :
-Git/GitHub, Linux, Docker
-</pre>
+```text
+┌──────────────────────────────────┐
+│ SYSTEM STATUS                    │
+│                                  │
+│ USER       kartikey              │
+│ STATUS     ONLINE                │
+│ MODE       BUILD                 │
+│                                  │
+│ CURRENT FOCUS                    │
+│ ──────────────────────────────── │
+│ Full-Stack Development           │
+│ Systems                          │
+│ AI                               │
+│                                  │
+│ STACK                            │
+│ ──────────────────────────────── │
+│ Python   TypeScript   Java       │
+│ C++      Go          JavaScript  │
+│                                  │
+│ TOOLCHAIN                        │
+│ ──────────────────────────────── │
+│ FastAPI  React  Next.js          │
+│ PostgreSQL  Docker  Git          │
+│                                  │
+└──────────────────────────────────┘
+```
 
 </td>
 
-<td width="55%" align="center" valign="middle">
+<td width="58%" align="center" valign="middle">
 
-<img src="./assets/ascii-art.png" width="480" />
+<img src="./assets/ascii-art.png" width="520" />
 
 </td>
 
 </tr>
 </table>
 
-</td>
-
-</tr>
-</table>
-
----
-
-## `> whoami`
-
-I'm a Computer Science student interested in building things across the
-full stack — from backend systems and databases to interactive frontends
-and AI-powered applications.
-
-Currently learning, building, breaking, and rebuilding.
-
----
-
-## `> current_stack`
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-### Languages
-
-```text
-Python
-JavaScript
-TypeScript
-C++
-Java
-Golang
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### Backend
-
-```text
-FastAPI
-Node.js
-PostgreSQL
-REST APIs
-Docker
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### Frontend
-
-```text
-HTML
-CSS
-JavaScript
-React.js
-Next.js
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `> currently_building`
-
-### 🌍 Histora
-
-**Interactive Historical Atlas**
-
-An interactive way to explore historical events, people, places,
-and timelines.
-
-```text
-Frontend    → HTML / CSS / JavaScript
-Backend     → FastAPI
-Database    → PostgreSQL
-Data        → Wikipedia API
-```
-
----
-
-## `> learning`
-
-```text
-[████████████████████]  Full-Stack Development
-
-[██████████████░░░░░░]  System Design
-
-[████████████░░░░░░░░]  Data Structures & Algorithms
-
-[██████████░░░░░░░░░░]  AI / ML
-
-[████████░░░░░░░░░░░░]  DevOps
-```
-
----
-
-## `> projects`
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| **Histora** | Interactive historical atlas | JS · FastAPI · PostgreSQL |
-| **Athenum** | Research exploration & summarization | Python · AI · APIs |
-| **DailyEdge** | Gamified productivity system | Python · FastAPI · AI |
-| **PixelTrove** | Interactive digital marketplace | Web · JavaScript |
-
----
-
-## `> github`
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kartik-ey17&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-ey17&layout=compact&hide_border=true&theme=transparent" />
+`[ GITHUB ]` &nbsp;&nbsp; `[@kartik-ey17]`
 
 </div>
 
 ---
 
-## `> connect`
+## `PROJECTS`
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<a href="https://github.com/kartik-ey17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<td width="50%" valign="top">
 
-<a href="https://linkedin.com/in/kartikey-srivastava17">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### BLACKBOX AI
 
-</div>
+**AI Incident Investigator**
+
+Reconstructs software incidents from correlated engineering evidence and produces evidence-backed investigations.
+
+`React` `TypeScript` `FastAPI` `Python`
+
+</td>
+
+<td width="50%" valign="top">
+
+### RATEFORGE
+
+**Rate Limiting Experimentation**
+
+Java-based simulator for comparing rate-limiting algorithms under different traffic patterns.
+
+`Java` `Algorithms` `Simulation`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### SETTLEMENT QnA
+
+**Fintech Settlement Investigation**
+
+Investigates settlement records across Gateway, Bank and Ledger data, with an optional AI explanation layer.
+
+`Python` `FastAPI` `PostgreSQL` `React`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ACEXAMS
+
+**AI Exam Practice**
+
+Turns uploaded course material into topic-based viva practice and evaluates spoken answers against the provided material.
+
+`Next.js` `TypeScript` `AI`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <details>
-<summary><b>terminal</b></summary>
+<summary><b>BLACKBOX AI</b></summary>
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│ kartikey@github:~$                                       │
-│                                                          │
-│ $ whoami                                                 │
-│ kartikey                                                  │
-│                                                          │
-│ $ status                                                 │
-│ BUILDING                                                 │
-│                                                          │
-│ $ focus                                                  │
-│ full-stack                                               │
-│ systems                                                  │
-│ AI                                                       │
-│                                                          │
-│ $ next                                                   │
-│ keep building.                                           │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+INPUT
+  GitHub
+  Sentry
+  System Logs
+      │
+      ▼
+┌─────────────────────┐
+│  Incident Analysis  │
+└──────────┬──────────┘
+           │
+           ▼
+   Correlated Evidence
+           │
+           ▼
+    Root Cause Report
 ```
 
 </details>
 
 <details>
-<summary><b>random facts</b></summary>
+<summary><b>RATEFORGE</b></summary>
 
 ```text
-> likes understanding how things work
+Traffic
+   │
+   ├── Normal
+   ├── Overload
+   ├── Burst
+   ├── Periodic
+   └── Random
+        │
+        ▼
+ ┌─────────────────┐
+ │ Fixed Window    │
+ │ Sliding Window  │
+ │ Token Bucket    │
+ │ Leaky Bucket    │
+ └────────┬────────┘
+          │
+          ▼
+      Benchmark
+```
 
-> probably over-engineers side projects
+</details>
 
-> enjoys building things from scratch
+<details>
+<summary><b>SETTLEMENT QnA</b></summary>
 
-> currently trying to understand system design
+```text
+Gateway ─┐
+Bank    ─┼──> Deterministic Investigation
+Ledger  ─┘             │
+                       ▼
+                Verified Result
+                       │
+                       ▼
+                 AI Explanation
+```
 
-> terminal > GUI
+</details>
+
+<details>
+<summary><b>ACEXAMS</b></summary>
+
+```text
+Course Material
+       │
+       ▼
+   Select Topic
+       │
+       ▼
+   Viva Question
+       │
+       ▼
+   Speak Answer
+       │
+       ▼
+     Evaluate
 ```
 
 </details>
@@ -257,12 +214,7 @@ Data        → Wikipedia API
 <div align="center">
 
 ```text
-while (alive) {
-    learn();
-    build();
-    break();
-    fix();
-}
+BUILD  ────────  SHIP  ────────  LEARN  ────────  REPEAT
 ```
 
 </div>
