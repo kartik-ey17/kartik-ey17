@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./assets/ascii-art.png" width="850" />
+<img src="./assets/ascii-art.png" width="420" />
 
 <br>
 
