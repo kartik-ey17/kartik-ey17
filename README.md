@@ -15,13 +15,13 @@
 
 <td width="30%" align="center">
 
-<img src="file:///C:/Users/sriva/Downloads/073a6ca4-8bf8-400a-a49c-74257f5dc908.png" width="180" />
+<img src="" width="180" />
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/kartik-ey17)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-srivastava17)
 
 </td>
 
