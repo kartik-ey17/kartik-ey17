@@ -1,4 +1,4 @@
-<img width="692" height="515" alt="image" src="." /># `README.md`
+`README.md`
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 <td width="30%" align="center">
 
-<img src="https://github.com/user-attachments/assets/1ea6b485-cb9d-48d1-b7aa-472248f30a06" width="180" />
+<img src="https://kommodo.ai/i/A0IMLcYOXLXrxb5iPda8" width="180" />
 
 <br><br>
 
