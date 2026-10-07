@@ -78,8 +78,8 @@ working and most of all , reliable systems.
 
 <br>
 
-<a href="https://github.com/kartik-ey17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<a href="mailto:kartikeysri202006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/kartikey-srivastava17">
