@@ -2,7 +2,7 @@
 
 # Kartikey Srivastava
 
-### Full-Stack Engineer
+
 
 <br>
 
